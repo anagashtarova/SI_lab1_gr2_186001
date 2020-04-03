@@ -12,7 +12,7 @@ class Student {
 		//TODO
 	}
 
-	public boolean hasSignature() {
+	public int ECTSCredits() {
 		//TODO
 	}
 }
