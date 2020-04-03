@@ -1,4 +1,5 @@
 class Student {
+	List<Integers> grades=new ArrayList<Integer>();
 	String index;
 	String firstName;
 	String lastName;
