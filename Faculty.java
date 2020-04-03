@@ -4,6 +4,8 @@ class Faculty {
 
 	//TODO constructor
 
+	//methods
+
 	public void addStudent(Student s) {
 		students.add(s);
 	}
